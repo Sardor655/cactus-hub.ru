@@ -14,7 +14,6 @@
   ],
   "rewrites": [
     { "source": "/:lang(en|tr|uz)", "destination": "/api/:lang.php" },
-    { "source": "/", "destination": "/api/index.php" },
-    { "source": "/:match*", "destination": "/api/404.php" }
+    { "source": "/", "destination": "/api/index.php" }
   ]
 }
