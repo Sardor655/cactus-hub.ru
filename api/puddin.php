@@ -1,6 +1,6 @@
 <?php
 $kechidlinki="https://elretoisidora.xyz/affiliate/c_vq8ls4fr?path=%2Fregistration";
-$promokod="G150";
+$promokod="TEZVIP";
 $instagram="";
 $telegram="";
 $ioslink="https://elretoisidora.xyz/affiliate/c_vq8ls4fr?path=%2Fregistration";
